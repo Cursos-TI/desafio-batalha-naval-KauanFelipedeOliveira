@@ -69,7 +69,8 @@ int main() {
         printf("\n");
     }
 
-    printf("\nLegenda: 0 = Água | 3 = Navio\n");
+    printf("\nLegenda: 0 = Agua | 3 = Navio\n");
 
     return 0;
 }
+
